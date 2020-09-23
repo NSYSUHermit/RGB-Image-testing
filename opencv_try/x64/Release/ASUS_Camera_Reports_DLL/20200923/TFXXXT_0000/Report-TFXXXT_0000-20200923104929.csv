@@ -1,0 +1,11 @@
+Report_Version:1.0.9.4,Project_Name : DIT_NewMember_Demo_version,,,,,,,,,
+ITEM,STATUS,VALUE,UCL,LCL,RESULT,SPEC_NAME,DATE_NAME,OBJ_NAME,COMMENT,OTHERS
+Shading,1,0,0,0,Pass,DataSet\DITCameraTestApp\CameraSpec.spe,20200923 104929,OBJ_NAME,COMMENT,OTHERS
+Yc,1,129.964315,220,100,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200923 104929, , , 
+Y1,1,89.814161,110,74,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200923 104929, , , 
+Y2,1,89.220142,110,74,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200923 104929, , , 
+Y3,1,89.531960,110,74,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200923 104929, , , 
+Y4,1,89.162127,110,74,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200923 104929, , , 
+Diff,1,0.000000,20,0,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200923 104929, , , 
+Shading_FileName,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\.\test_pic\shadingOK.jpg
+Shading_FileName,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\ASUS_Camera_Reports_DLL\20200923\TFXXXT_0000\TFXXXT_0000-20200923104928-Pass-Shading-Debug.jpg

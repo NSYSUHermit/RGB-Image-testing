@@ -1,0 +1,16 @@
+************************************************************************************
+If you want to using the testing application.
+You should open your command and direct the path to exe file.
+Then key [file_name] [function] [pic_name].
+Give you an example:
+opencv_try.exe -LS  .\test_pic\shading.jpg
+
+************************************************************************************
+Here is the function list:
+-LS:Shading(Counting the pic bright level and check it legal or not)
+-FL:Flare(Check the camera flare,blurry or out of focus)
+-BL:Blemish(Check the camera blemish or not)
+
+************************************************************************************
+FYI
+The exe path:.\RGB-Image-testing\opencv_try\x64\Release\opencv_try.exe

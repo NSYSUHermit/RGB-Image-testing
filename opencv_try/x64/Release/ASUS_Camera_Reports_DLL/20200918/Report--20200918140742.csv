@@ -1,0 +1,14 @@
+Report_Version:1.0.9.4,Project_Name : DIT_NewMember_Demo_version
+ITEM,STATUS,VALUE,UCL,LCL,RESULT,SPEC_NAME,DATE_TIME,OBJ_NAME,COMMENT,OTHERS
+Flare,1,0,0,0,Pass,DataSetDITCameraTestAppCameraSpec.spe,20200918 140742
+left-up,1,66.724405,0,0,PASS,DataSetDITCameraTestAppCameraSpec.spe,20200918 140742
+left,1,66.064639,0,0,PASS,DataSetDITCameraTestAppCameraSpec.spe,20200918 140742
+left-down,1,64.145337,0,0,PASS,DataSetDITCameraTestAppCameraSpec.spe,20200918 140742
+right-up,1,70.940546,0,0,PASS,DataSetDITCameraTestAppCameraSpec.spe,20200918 140742
+right,1,75.660224,0,0,PASS,DataSetDITCameraTestAppCameraSpec.spe,20200918 140742
+right-down,1,79.159039,0,0,PASS,DataSetDITCameraTestAppCameraSpec.spe,20200918 140742
+up,1,79.243438,0,0,PASS,DataSetDITCameraTestAppCameraSpec.spe,20200918 140742
+mid,1,77.539571,0,0,PASS,DataSetDITCameraTestAppCameraSpec.spe,20200918 140742
+down,1,74.658728,0,0,PASS,DataSetDITCameraTestAppCameraSpec.spe,20200918 140742
+Shading_FileName,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\FLARE.JPG
+Shading_DrawImg,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\ASUS_Camera_Reports_DLL\20200918\\-20200918140741-Pass-Flare-Debug.jpg

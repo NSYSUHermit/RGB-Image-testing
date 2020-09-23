@@ -1,0 +1,11 @@
+Report_Version:0.0.0.1,Project_Name : DIT_NewMember_Demo_version
+ITEM,STATUS,VALUE,UCL,LCL,RESULT,SPEC_NAME,DATE_TIME,OBJ_NAME,COMMENT,OTHERS
+Shading,1,0,0,0,Fail,CameraSpec.spe,20200917151547
+Yc,1,246.664530,180,140,FAIL,CameraSpec.spe,20200917151547
+Y1,1,156.762821,110,16,FAIL,CameraSpec.spe,20200917151547
+Y2,1,133.123932,110,16,FAIL,CameraSpec.spe,20200917151547
+Y3,1,211.467949,110,16,FAIL,CameraSpec.spe,20200917151547
+Y4,1,240.865385,110,16,FAIL,CameraSpec.spe,20200917151547
+Diff,1,107.000000,10,0,FAIL,CameraSpec.spe,20200917151547
+Shading_FileName,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release
+Shading_DrawImg,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\ASUS_Camera_Reports_DLL\20200917\TFXXXT_0000\TFXXXT_0000-20200917151546-Fail-Shading-Debug.jpg

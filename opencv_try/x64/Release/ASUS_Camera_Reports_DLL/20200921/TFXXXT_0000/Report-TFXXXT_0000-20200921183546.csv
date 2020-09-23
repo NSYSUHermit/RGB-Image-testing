@@ -1,0 +1,11 @@
+Report_Version:1.0.9.4,Project_Name : DIT_NewMember_Demo_version,,,,,,,,,
+ITEM,STATUS,VALUE,UCL,LCL,RESULT,SPEC_NAME,DATE_NAME,OBJ_NAME,COMMENT,OTHERS
+Flare,1,0,0,0,Fail,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183546,OBJ_NAME,COMMENT,OTHERS
+left-up,1,66.724405,0,80,FAIL,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183546, , , 
+left,1,66.064639,0,80,FAIL,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183546, , , 
+left-down,1,64.145337,0,80,FAIL,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183546, , , 
+right-up,1,70.940546,0,80,FAIL,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183546, , , 
+right,1,75.660224,0,80,FAIL,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183546, , , 
+right-down,1,79.159039,0,80,FAIL,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183546, , , 
+Flare_FileName,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\flare.jpg
+Flare_FileName,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\ASUS_Camera_Reports_DLL\20200921\TFXXXT_0000\TFXXXT_0000-20200921183545-Fail-Flare-Debug.jpg

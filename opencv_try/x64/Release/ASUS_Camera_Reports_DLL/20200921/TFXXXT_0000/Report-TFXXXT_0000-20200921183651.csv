@@ -1,0 +1,11 @@
+Report_Version:1.0.9.4,Project_Name : DIT_NewMember_Demo_version,,,,,,,,,
+ITEM,STATUS,VALUE,UCL,LCL,RESULT,SPEC_NAME,DATE_NAME,OBJ_NAME,COMMENT,OTHERS
+Flare,1,0,0,0,Pass,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183651,OBJ_NAME,COMMENT,OTHERS
+left-up,1,91.578734,0,80,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183651, , , 
+left,1,92.352899,0,80,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183651, , , 
+left-down,1,91.092826,0,80,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183651, , , 
+right-up,1,89.558511,0,80,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183651, , , 
+right,1,88.825143,0,80,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183651, , , 
+right-down,1,89.406592,0,80,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200921 183651, , , 
+Flare_FileName,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\FLAREOK.JPG
+Flare_FileName,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\ASUS_Camera_Reports_DLL\20200921\TFXXXT_0000\TFXXXT_0000-20200921183651-Pass-Flare-Debug.jpg

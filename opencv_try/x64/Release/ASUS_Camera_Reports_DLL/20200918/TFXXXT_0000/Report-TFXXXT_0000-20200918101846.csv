@@ -1,0 +1,14 @@
+Report_Version:1.0.9.4,Project_Name : DIT_NewMember_Demo_version
+ITEM,STATUS,VALUE,UCL,LCL,RESULT,SPEC_NAME,DATE_TIME,OBJ_NAME,COMMENT,OTHERS
+Flare,1,0,0,0,Fail,DataSetDITCameraTestAppCameraSpec.spe,20200918101846
+left-up,1,48.335966,85,0,FAIL,DataSetDITCameraTestAppCameraSpec.spe,20200918101846
+left,1,65.761275,85,0,FAIL,DataSetDITCameraTestAppCameraSpec.spe,20200918101846
+left-down,1,60.060057,85,0,FAIL,DataSetDITCameraTestAppCameraSpec.spe,20200918101846
+right-up,1,54.320103,85,0,FAIL,DataSetDITCameraTestAppCameraSpec.spe,20200918101846
+right,1,68.400833,85,0,FAIL,DataSetDITCameraTestAppCameraSpec.spe,20200918101846
+right-down,1,70.859159,85,0,FAIL,DataSetDITCameraTestAppCameraSpec.spe,20200918101846
+up,1,54.703214,85,0,FAIL,DataSetDITCameraTestAppCameraSpec.spe,20200918101846
+mid,1,67.644184,85,0,FAIL,DataSetDITCameraTestAppCameraSpec.spe,20200918101846
+down,1,65.231397,85,0,FAIL,DataSetDITCameraTestAppCameraSpec.spe,20200918101846
+Shading_FileName,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\¤p¤Ò.JPG
+Shading_DrawImg,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\ASUS_Camera_Reports_DLL\20200918\TFXXXT_0000\TFXXXT_0000-20200918101846-Fail-Flare-Debug.jpg

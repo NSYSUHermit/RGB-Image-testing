@@ -1,0 +1,3 @@
+Report_Version:0.0.0.1,Project_Name : DIT_NewMember_Demo_version
+ITEM,STATUS,VALUE,UCL,LCL,RESULT,SPEC_NAME,DATE_TIME,OBJ_NAME,COMMENT,OTHERS
+Shading,1,0,0,0,Pass,CameraSpec.spe,20200917114832

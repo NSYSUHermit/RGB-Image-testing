@@ -1,0 +1,6 @@
+Report_Version:1.0.9.4,Project_Name : DIT_NewMember_Demo_version
+ITEM,STATUS,VALUE,UCL,LCL,RESULT,SPEC_NAME,DATE_TIME,OBJ_NAME,COMMENT,OTHERS
+Blemish,1,0,0,0,Fail,DataSetDITCameraTestAppCameraSpec.spe,20200918111745
+contourArea59920,1,55410.500000,200000.000000,50000.000000,Fail,DataSetDITCameraTestAppCameraSpec.spe,20200918111745
+Blemish_FileName,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\blemish.jpg
+Blemish_DrawImg,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\ASUS_Camera_Reports_DLL\20200918\TFXXXT_0000\TFXXXT_0000-20200918111744-Fail-Blemish-Debug.jpg

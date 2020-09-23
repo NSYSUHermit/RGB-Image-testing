@@ -1,0 +1,11 @@
+Report_Version:1.0.9.4,Project_Name : DIT_NewMember_Demo_version,,,,,,,,,
+ITEM,STATUS,VALUE,UCL,LCL,RESULT,SPEC_NAME,DATE_NAME,OBJ_NAME,COMMENT,OTHERS
+Shading,1,0,0,0,Fail,DataSet\DITCameraTestApp\CameraSpec.spe,20200922 160708,OBJ_NAME,COMMENT,OTHERS
+Yc,1,148.939531,180,140,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200922 160708, , , 
+Y1,1,139.555208,110,16,FAIL,DataSet\DITCameraTestApp\CameraSpec.spe,20200922 160708, , , 
+Y2,1,58.535000,110,16,PASS,DataSet\DITCameraTestApp\CameraSpec.spe,20200922 160708, , , 
+Y3,1,144.332344,110,16,FAIL,DataSet\DITCameraTestApp\CameraSpec.spe,20200922 160708, , , 
+Y4,1,112.875625,110,16,FAIL,DataSet\DITCameraTestApp\CameraSpec.spe,20200922 160708, , , 
+Diff,1,86.000000,10,0,FAIL,DataSet\DITCameraTestApp\CameraSpec.spe,20200922 160708, , , 
+Shading_FileName,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\.\test_pic\shading.jpg
+Shading_FileName,0,0,0,0,PASS,,,,,C:\Users\henry4_lin\source\repos\opencv_try\x64\Release\ASUS_Camera_Reports_DLL\20200922\TFXXXT_0000\TFXXXT_0000-20200922160708-Fail-Shading-Debug.jpg
