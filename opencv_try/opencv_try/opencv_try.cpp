@@ -13,6 +13,8 @@ using namespace std;
 int main(int argc, char *argv[]) {
 	if (argc < 1) {
 		cout << "請輸入格式為(執行檔 -方法 圖片名稱)的格式" << endl;
+		system("pause");
+		return 0;
 	}
 	// read jpg file
 	string filename = argv[2];
@@ -57,7 +59,10 @@ int main(int argc, char *argv[]) {
 		run_test-> record();
 		run_test-> result_csv();
 		run_test-> show();
-		delete run_test;
+		if (run_test != NULL) {
+			delete run_test;
+		}
+		run_test = NULL;
 		cout << endl;
 	}
 	system("pause");
